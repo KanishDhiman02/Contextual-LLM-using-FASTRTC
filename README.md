@@ -1,4 +1,4 @@
-# Context-Aware Voice Agent (FastRTC PoC)
+# Context-Aware Voice Agent 
 
 A low-latency, WebRTC-based voice assistant demo version. This project demonstrates real-time speech-to-speech interaction with deterministic grounding and edge-optimized inference.
 
