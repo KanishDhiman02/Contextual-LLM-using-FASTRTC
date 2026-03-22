@@ -3,3 +3,4 @@ Lead Developer: Kanish Dhiman
 Tech Stack: WebRTC, FastRTC, Groq, Moonshine STT.
 Core Goal: To implementation a context about the ongoing project and other information that we want the llm sould know and in whose reference it should answer the questions 
 Current Milestone: Building low-latency voice-to-voice communication.
+He knows webgl, advance optimizations techniques and has also developed a metahueristic technique for optimization his work was accepted an published in antic 2025 which is international conference on advance network technology & intelligent computing 
